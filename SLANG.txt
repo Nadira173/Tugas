@@ -1,5 +1,5 @@
 slang
-{"mntap":"mantap",
+{"Mntap":"mantap",
 "bg": "bang",
  "non": "tidak",
 "batrey": "baterai",
